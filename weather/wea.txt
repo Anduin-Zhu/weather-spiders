@@ -1,0 +1,22 @@
+city:北京
+
+date:12-01		day:晴(5°C )		night:晴( -6°C)
+
+date:12-02		day:多云(6°C )		night:晴( -4°C)
+
+date:12-03		day:晴(5°C )		night:多云( -4°C)
+
+date:12-04		day:晴(3°C )		night:晴( -6°C)
+
+date:12-05		day:晴(5°C )		night:晴( -5°C)
+
+date:12-06		day:晴(7°C )		night:晴( -5°C)
+
+date:12-07		day:多云(7°C )		night:晴( -4°C)
+
+date:12-08		day:晴(6°C )		night:晴( -6°C)
+
+date:12-09		day:局部多云(3°C )		night:少云( -8°C)
+
+date:12-10		day:晴(0°C )		night:晴( -9°C)
+
